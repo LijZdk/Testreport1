@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47248" started-at="2017-05-05T15:45:39Z" finished-at="2017-05-05T15:46:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47248" started-at="2017-05-05T15:45:39Z" finished-at="2017-05-05T15:46:26Z">
+      <class name="MavenTest.Testreport.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:MavenTest.Testreport.AppTest@1e88b3c]" name="setup" is-config="true" duration-ms="18276" started-at="2017-05-05T15:45:39Z" finished-at="2017-05-05T15:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AmazonTest1()[pri:1, instance:MavenTest.Testreport.AppTest@1e88b3c]" name="AmazonTest1" duration-ms="594" started-at="2017-05-05T15:45:57Z" finished-at="2017-05-05T15:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonTest1 -->
+        <test-method status="PASS" signature="verifySearchBox()[pri:2, instance:MavenTest.Testreport.AppTest@1e88b3c]" name="verifySearchBox" duration-ms="9002" started-at="2017-05-05T15:45:58Z" finished-at="2017-05-05T15:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method status="PASS" signature="FiIphone()[pri:3, instance:MavenTest.Testreport.AppTest@1e88b3c]" name="FiIphone" duration-ms="16146" started-at="2017-05-05T15:46:07Z" finished-at="2017-05-05T15:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FiIphone -->
+        <test-method status="PASS" signature="BasketIphone()[pri:4, instance:MavenTest.Testreport.AppTest@1e88b3c]" name="BasketIphone" duration-ms="3183" started-at="2017-05-05T15:46:23Z" finished-at="2017-05-05T15:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasketIphone -->
+      </class> <!-- MavenTest.Testreport.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
